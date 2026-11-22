@@ -5,7 +5,7 @@ Este é um software feito pela empresa Helperyou.Tech.
 
 
 #Integrantes:
-Ana Gabrielly Teixeira da Silva
+Ana Gabrielly Teixeira da Silva e 
 Maria Eduarda do Santos Pellegrini
 
 
